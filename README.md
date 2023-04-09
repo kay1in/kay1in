@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kay1in (I go by lotus)
-- 👀 I’m interested in game design & web design.
-- 🌱 I’m currently learning HTML & CSS.
+- 👋 Hi, I’m @kay1in 
+- 👀 I’m interested in AI, game design & web design.
+- 🌱 I’m currently learning JavaScript & Python.
 - 💞️ I’m looking to collaborate on game & web development.
 - 📫 How to reach me @kowgirlbebop on TW
 
